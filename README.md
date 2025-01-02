@@ -1,0 +1,14 @@
+# a25xdxx-user 14 UP1A.231005.007 A256EXXS7BXK1 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: essi
+- flavor: a25xdxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A256EXXS7BXK1
+- tags: release-keys
+- fingerprint: samsung/a25xdxx/essi:14/UP1A.231005.007/A256EXXS7BXK1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a25xdxx-user-14-UP1A.231005.007-A256EXXS7BXK1-release-keys
+- repo: samsung_essi_dump
