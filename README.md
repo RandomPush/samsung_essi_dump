@@ -1,0 +1,14 @@
+# b0sxxx-user 14 UP1A.231005.007 S908BXXSCEXI4 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: essi
+- flavor: b0sxxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: S908BXXSCEXI4
+- tags: release-keys
+- fingerprint: samsung/b0sxxx/essi:14/UP1A.231005.007/S908BXXSCEXI4:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: b0sxxx-user-14-UP1A.231005.007-S908BXXSCEXI4-release-keys
+- repo: samsung_essi_dump
